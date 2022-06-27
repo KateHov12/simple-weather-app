@@ -30,6 +30,10 @@ li:first-letter {
     margin: 40px auto;
 }
 
+.units {
+    color: #5585b5;
+}
+
 .weather-app {
     padding: 20px;
     border: 1px solid #5585b5;
